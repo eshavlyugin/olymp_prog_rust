@@ -1,0 +1,9 @@
+[package]
+name = "input_reader"
+version = "0.1.0"
+authors = ["Evgeny Shavlyugin <eshavlyugin@gmail.com>"]
+
+[dependencies]
+input_reader_derive = { path = "input_reader_derive" }
+input_reader_trait = { path = "input_reader_trait" }
+

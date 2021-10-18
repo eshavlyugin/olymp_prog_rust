@@ -1,0 +1,8 @@
+[package]
+name = "comp_prog_lib"
+version = "0.1.0"
+authors = ["Evgeny Shavlyugin <eshavlyugin@gmail.com>"]
+
+[dependencies]
+input_reader = { path = "input_reader" }
+agents = { path = "agents" }

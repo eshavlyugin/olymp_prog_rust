@@ -1,0 +1,5 @@
+[package]
+name = "input_reader_trait"
+version = "0.1.0"
+authors = ["Evgeny Shavlyugin <eshavlyugin@gmail.com>"]
+
