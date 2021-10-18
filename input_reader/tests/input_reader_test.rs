@@ -3,7 +3,6 @@ extern crate input_reader_trait;
 #[macro_use]
 extern crate input_reader_derive;
 
-use std::str::FromStr;
 use input_reader_trait::FromTokenStream;
 
 struct Zhenyok {
